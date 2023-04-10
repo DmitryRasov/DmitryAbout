@@ -2,7 +2,7 @@
 
 <h3 align="center">🎓Applied Informatics student, development enjoyer 👨‍💻</h3>
 
-🔭 I’m currently working on my small [![Recipe Store](https://github.com/DmitryRasov/RecipeStore)]
+🔭 I’m currently working on my small [Recipe Store](https://github.com/DmitryRasov/RecipeStore)
 <p align="left">
 </p>
 
